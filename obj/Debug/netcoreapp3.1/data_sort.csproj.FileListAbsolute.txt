@@ -1,0 +1,14 @@
+D:\大三下学习\现代软件开发技术\作业2\data_sort\bin\Debug\netcoreapp3.1\data_sort.exe
+D:\大三下学习\现代软件开发技术\作业2\data_sort\bin\Debug\netcoreapp3.1\data_sort.deps.json
+D:\大三下学习\现代软件开发技术\作业2\data_sort\bin\Debug\netcoreapp3.1\data_sort.runtimeconfig.json
+D:\大三下学习\现代软件开发技术\作业2\data_sort\bin\Debug\netcoreapp3.1\data_sort.runtimeconfig.dev.json
+D:\大三下学习\现代软件开发技术\作业2\data_sort\bin\Debug\netcoreapp3.1\data_sort.dll
+D:\大三下学习\现代软件开发技术\作业2\data_sort\bin\Debug\netcoreapp3.1\data_sort.pdb
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.AssemblyInfoInputs.cache
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.AssemblyInfo.cs
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.csproj.CoreCompileInputs.cache
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.dll
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.pdb
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.genruntimeconfig.cache
+D:\大三下学习\现代软件开发技术\作业2\data_sort\obj\Debug\netcoreapp3.1\data_sort.csproj.AssemblyReference.cache
